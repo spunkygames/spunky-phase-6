@@ -12,14 +12,6 @@ Spunky Phase 6 is an exciting online game offering a unique and engaging experie
 3. [Features](#features)
 4. [Frequently Asked Questions (FAQ)](#faq)
 
-
----
-
-## What is Spunky Phase 6? <a name="what-is-spunky-phase-6"></a>
-
-Spunky Phase 6 is a captivating online game offering a distinctive gameplay experience. For more Spunky adventures, check out [Sprunki Shocked](https://spunky.games/sprunki-shocked), [Sprunki Corruptbox](https://spunky.games/sprunki-corruptbox), and [Sprunki Gyat](https://spunky.games/sprunki-gyat).
-
-
 ---
 
 ## How to Play <a name="how-to-play"></a>
@@ -64,4 +56,4 @@ Getting started with Spunky Phase 6 is easy:
 
 ---
 
-Join the Spunky adventure! Play Spunky Phase 6 now. You might also enjoy similar games available on Webflow, such as : [spunky-game.webflow](https://spunky-game.webflow.io/), [sprunki-game.webflow](https://sprunki-game.webflow.io/), and: [esprunki-game.webflow](https://esprunki-game.webflow.io/).
+Join the Spunky adventure! Play Spunky Phase 6 now. You might also enjoy similar games available on Webflow, such as : [spunky game webflow](https://spunky-game.webflow.io/), [sprunki game webflow](https://sprunki-game.webflow.io/), and: [esprunki game webflow](https://esprunki-game.webflow.io/).
